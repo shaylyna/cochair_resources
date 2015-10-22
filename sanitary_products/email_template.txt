@@ -1,0 +1,11 @@
+Dear Prof. %s,
+
+As you may have heard, CS Women recently began an initiative to stock the women's bathrooms with sanitary products. There are currently no dispensers at all in the women's bathrooms, so CS Women has placed baskets with sanitary products in them for students and visitors to use. We have had overwhelmingly positive feedback on this inititiative and feel it will help CICS with the recruitment and retention of women.
+
+We are writing to ask for your help with this initiative. Like Thursday Tea, we would like to set up a rotation for professors to sponsor each purchase. Our last sponsor was Prof. %s.
+
+We anticipate needing to restock the bathrooms every 6 weeks. There are two methods for sponsoring: the co-chairs can make the purchase and seek reimbursement, or you can order to Amazon yourself here: http://www.amazon.com/Always-Ultra-Regular-Wings-Unscented/dp/B00AY0K7YA/ref=sr_1_1?ie=UTF8&qid=1445524958&sr=8-1&keywords=always+sanitary+pads.
+
+Thank you for your assistance!
+
+%s

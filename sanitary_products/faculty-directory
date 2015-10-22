@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.cics.umass.edu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="HandheldFriendly" content="true" />
+  <title>Faculty Directory | College of Information and Computer Sciences | UMass Amherst</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_ufwZAkC0VXHD3hoqAVabJvCAS8pPQY-rHgNxMG-jEbo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_jBUtcGqn28Jx5QmYb-lgFODKCukHSTw42NXOquVVahs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_Ho5mp5r3HbOqU1rQ7zXTpBtgN7SSA1koP5R0WjLPkiM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_69CBpNRdrwDck4qC8fOXnPO5hS2kRg7qh5sovZkglYE.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/ez.css?nwl8mj" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_CzKu9c_t5GVZbh_q0AfVlC3mRUXMJi_i3Qg2BcmAt0k.css" media="all" />
+
+<!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/all/themes/umass/ie9.css?nwl8mj" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.cics.umass.edu/sites/default/files/css/css_FEkb0SD9zPKWX27POvyuWgaLoU7_7jGDatEcYcCwTQ8.css" media="all" />
+
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://www.cics.umass.edu/sites/default/files/js/js_mQ3VV7I77WIBnvw9Irk_EfE1ANRI9J_b3Qww4dOtqEA.js"></script>
+<script type="text/javascript" src="https://www.cics.umass.edu/sites/default/files/js/js_o6OU4hTW7WesRp2DZJfcgPjtjajMXwoigFPMtPoxjIU.js"></script>
+<script type="text/javascript" src="https://www.cics.umass.edu/sites/default/files/js/js_pfElY0RREiS-yjwfehkaDI2W1DrJxQ1fz8vm-cq5Ugc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1912191-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").addClass("show");	
+			} else {
+				$("#toTop").removeClass("show");
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+			var	headerTopHeight = $("#header-top").outerHeight(),
+			headerHeight = $("#header").outerHeight();
+			
+			$(window).scroll(function() {
+			if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
+				$("body").addClass("onscroll");
+				if (($("#site-name").length > 0) && ($("#logo").length > 0)) {
+					$(".onscroll #logo").addClass("hide");
+				}
+
+				if ($("#banner").length > 0) { 
+ 					$("#banner").css("marginTop", (headerHeight)+"px");
+				} else if ($("#page-intro").length > 0) {
+					$("#page-intro").css("marginTop", (headerHeight)+"px");
+				} else {
+					$("#page").css("marginTop", (headerHeight)+"px");
+				}
+			} else {
+				$("body").removeClass("onscroll");
+				$("#logo").removeClass("hide");
+				$("#page,#banner,#page-intro").css("marginTop", (0)+"px");
+			}
+			});
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cics.umass.edu/sites/all/themes/scholarly_lite/js/meanmenu/jquery.meanmenu.fork.js?nwl8mj"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+
+			$("#main-navigation .sf-menu, #main-navigation .content>ul.menu, #main-navigation ul.main-menu").wrap("<div class='meanmenu-wrapper'></div>");
+			$("#main-navigation .meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-inside",
+				meanMenuClose: ""
+			});
+
+			$("#header-top .sf-menu, #header-top .content>ul.menu").wrap("<div class='header-top-meanmenu-wrapper'></div>");
+			$("#header-top .header-top-meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-top-inside",
+				meanMenuClose: ""
+			});
+
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cics.umass.edu/sites/default/files/js/js_D3gaWDovdngGvy7Ar8cOr5P3FJZDJ4dJMGHTZV2zNIY.js"></script>
+<script type="text/javascript" src="https://www.cics.umass.edu/sites/default/files/js/js_k5N3wu_YCyBJDZ-eKoj8EyOaDdlQioZWBPKZp4ptZhI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"umass","theme_token":"MOPU0vqbd3dngP5u1Fe56f2Yw9wcjB_x3wm2gHWMDIo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/equalheights\/jquery.equalheights.js":1,"sites\/all\/modules\/equalheights\/equalheights.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/custom\/umass_banner\/js\/umass_banner.js":1,"sites\/all\/libraries\/imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"1":1,"2":1,"sites\/all\/themes\/scholarly_lite\/js\/meanmenu\/jquery.meanmenu.fork.js":1,"3":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/umass\/js\/umass.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/umass_banner\/css\/umass_banner.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/themes\/scholarly_lite\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/scholarly_lite\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/scholarly_lite\/style.css":1,"sites\/all\/themes\/umass\/css\/print.css":1,"sites\/default\/files\/ez.css":1,"sites\/all\/themes\/scholarly_lite\/style-gray-red.css":1,"sites\/all\/themes\/scholarly_lite\/fonts\/opensans-font.css":1,"sites\/all\/themes\/umass\/fonts\/sourcecodepro-font.css":1,"sites\/all\/themes\/umass\/fonts\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/umass\/ie9.css":1,"sites\/all\/themes\/scholarly_lite\/local.css":1,"sites\/all\/themes\/umass\/fonts\/lora-font.css":1,"sites\/all\/themes\/umass\/css\/umass.css":1}},"equalHeightsModule":{"classes":[{"selector":".equalheight","mediaquery":"","minheight":"","maxheight":"","overflow":"auto"}],"imagesloaded_ie8":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"urlIsAjaxTrusted":{"\/faculty\/faculty-directory":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-faculty page-faculty-faculty-directory no-banner sff-32 slff-6 hff-6 pff-6 form-style-1" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><i class="fa fa-angle-up"></i></div>
+  <div class="region region-header-top">
+    <div id="block-umass-banner-umass-banner" class="block block-umass-banner clearfix">
+
+    
+  <div class="content">
+      <div id="umass-banner" role="complementary" aria-label="UMass Global Banner">
+    <div class="container clearfix">
+      <a id="wordmark" class="ir" href="http://umass.edu/" title="UMass Amherst">University of Massachusetts Amherst</a>
+      <form action="http://googlebox.oit.umass.edu/search" method="get" _lpchecked="1">
+        <h2 class="element-invisible">Search Google Appliance</h2>
+        <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+        <input placeholder="Search UMass" id="edit-search-keys" type="text" name="q" size="15" maxlength="256" value="">
+        <input type="submit" name="btnG" value="Google Search">
+        <input type="hidden" name="site" value="default_collection">
+        <input type="hidden" name="client" value="default_frontend">
+        <input type="hidden" name="output" value="xml_no_dtd">
+        <input type="hidden" name="proxystylesheet" value="default_frontend">
+      </form>
+      <a href="#" class="metanav-toggle" tabindex="0">Links <span class="element-invisible">to common UMass Amherst services and features</span><i class="fa fa-angle-down"></i></a>
+
+      </div>
+  </div>
+  <div id="metanav" role="navigation" aria-label="UMass Global Links" style="overflow: hidden;">
+    <ul class="container clearfix">
+    <li><a href="https://go.umass.edu/" title="">Go.UMass</a></li>
+    <li><a href="http://www.oit.umass.edu/email" title="">Email</a></li>
+    <li><a href="https://www.spire.umass.edu/" title="">SPIRE</a></li>
+    <li><a href="https://moodle.umass.edu/" title="">Moodle</a></li>
+    <li><a href="https://uma.umassonline.net" title="">Blackboard Learn</a></li>
+    <li><a href="https://udrive.oit.umass.edu/" title="">UDrive</a></li>
+    <li class="last"><a href="http://umass.edu/peoplefinder/" title="">People Finder</a></li>
+    </ul>
+    </div>  </div>
+</div>
+<div id="block-block-1" class="block block-block container make-a-gift clearfix">
+
+    
+  <div class="content">
+    <p><a class="cta" href="/donate" target="_donate">Make a Gift </a></p>  </div>
+</div>
+  </div>
+
+<div class="container">
+  <div class="internal-banner-image">
+
+  </div>
+</div>
+
+  <!-- #header -->
+<header id="header" role="banner" class="clearfix">
+  <div class="container">
+    <!-- #header-inside -->
+    <div id="header-inside" class="clearfix">
+      <div class="row">
+        <div class="col-md-3">
+          <!-- #header-inside-left -->
+          <div id="header-inside-left" class="clearfix">
+
+            
+                        <div id="site-name">
+            <a href="/" title="Home">College of Information and Computer Sciences</a>
+            </div>
+            
+            
+            
+          </div>
+          <!-- EOF:#header-inside-left -->
+        </div>
+        <div class="col-md-9">
+          <!-- #header-inside-right -->
+          <div id="header-inside-right" class="clearfix">
+            <!-- #main-navigation -->
+            <div id="main-navigation" class="clearfix">
+              <nav role="navigation">
+                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-7 sf-single-items-0"><li id="menu-420-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-2 sf-single-children-3 menuparent"><a href="/about/about-umass-computer-science" class="sf-depth-1 menuparent">About</a><ul><li id="menu-421-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/contact-information" class="sf-depth-2">Contact Us</a></li><li id="menu-422-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/visiting-college" class="sf-depth-2">Visiting CICS</a></li><li id="menu-407-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/history-school-computer-science" title="History of CICS" class="sf-depth-2">Our History</a></li><li id="menu-399-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/content/employment" class="sf-depth-2 menuparent">Employment</a><ul><li id="menu-395-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/jobs" class="sf-depth-3">Faculty &amp; Research</a></li><li id="menu-400-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/jobs/staff_jobs" class="sf-depth-3">Staff</a></li></ul></li><li id="menu-417-1" class="last odd sf-item-5 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about/computing-facilities" class="sf-depth-2 menuparent">Computing Facilities</a><ul><li id="menu-418-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about/online-services" class="sf-depth-3">Online Services</a></li><li id="menu-419-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/about/cspublic-information" class="sf-depth-3">Wireless access</a></li></ul></li></ul></li><li id="menu-588-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/research" class="sf-depth-1 menuparent">Research</a><ul><li id="menu-381-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research/research-areas" class="sf-depth-2">Research Areas</a></li><li id="menu-382-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/research/research-groups" class="sf-depth-2">Research Centers &amp; Labs</a></li><li id="menu-416-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/faculty/publications" class="sf-depth-2">Publications</a></li></ul></li><li id="menu-363-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/content/future-students" class="sf-depth-1 menuparent">Future Students</a><ul><li id="menu-436-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/admissions/why-choose-cs" class="sf-depth-2">Why Choose UMass?</a></li><li id="menu-731-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/degree-programs" class="sf-depth-2">Degree Programs</a></li><li id="menu-437-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/admissions/prospective-undergraduates" class="sf-depth-2 menuparent">Undergraduate Admissions</a><ul><li id="menu-444-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/ugrad-education/cs-tours" class="sf-depth-3">CICS Tours</a></li><li id="menu-445-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/admissions/transfer-students" class="sf-depth-3">Transfer Students</a></li><li id="menu-491-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/admissions/getting-started" class="sf-depth-3">Getting Started</a></li></ul></li><li id="menu-438-1" class="last even sf-item-4 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/admissions/prospective-graduates" class="sf-depth-2 menuparent">Graduate Admissions</a><ul><li id="menu-439-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/admissions/undergraduate-preparation" class="sf-depth-3">Undergraduate Preparation</a></li><li id="menu-440-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/admissions/application-instructions" class="sf-depth-3">Application Instructions</a></li><li id="menu-441-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/admissions/application-faq" class="sf-depth-3">Admissions FAQ</a></li><li id="menu-442-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/admissions/bay-state-fellowship-program" class="sf-depth-3">Bay State Fellowship Program</a></li></ul></li></ul></li><li id="menu-449-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/content/current-students" class="sf-depth-1 menuparent">Current Students</a><ul><li id="menu-447-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/grads/overview" class="sf-depth-2 menuparent">Graduate Students</a><ul><li id="menu-450-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/grads/life-graduate-student" class="sf-depth-3">Life as a Graduate Student</a></li><li id="menu-456-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/grads/phd-requirements" class="sf-depth-3">Ph.D. Requirements</a></li><li id="menu-464-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/grads/msphd-requirements" class="sf-depth-3">MS/PhD Requirements</a></li><li id="menu-472-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/grads/ms-requirements" class="sf-depth-3">MS Requirements</a></li><li id="menu-476-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/grads/student-forms" class="sf-depth-3">Student Forms</a></li><li id="menu-477-1" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/grads/academic-progress" class="sf-depth-3">Academic Progress</a></li></ul></li><li id="menu-602-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/content/undergraduate-students" class="sf-depth-2 menuparent">Undergraduate Students</a><ul><li id="menu-554-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/degrees" class="sf-depth-3">Undergraduate Degree Program</a></li><li id="menu-478-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/ugrad-education/registration-and-advising" class="sf-depth-3">Registration &amp; Advising</a></li><li id="menu-446-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/ugrad-education/scholarships-fellowships" class="sf-depth-3">Scholarships &amp; Fellowships</a></li><li id="menu-488-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/content/whom-do-i-contact-help" class="sf-depth-3">Contact Us</a></li><li id="menu-489-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/ugrad-education/faq-bs-program" class="sf-depth-3">Undergraduate FAQ</a></li></ul></li><li id="menu-448-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/ugrad-education/courses" class="sf-depth-2">Courses</a></li><li id="menu-398-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/current-students/career-development" class="sf-depth-2">Student Jobs</a></li></ul></li><li id="menu-401-1" class="active-trail middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/people/cs-people" class="sf-depth-1 menuparent">People</a><ul><li id="menu-405-1" class="active-trail first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/faculty/faculty-directory" class="sf-depth-2 active">Faculty Directory</a></li><li id="menu-548-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/people/graduate-students" class="sf-depth-2">Graduate Students</a></li><li id="menu-402-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/people/graduating_phds" class="sf-depth-2">Graduating PhDs</a></li><li id="menu-404-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/people/graduating_ms" class="sf-depth-2">Graduating MS Students</a></li><li id="menu-549-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/people/staff-directory" class="sf-depth-2">Staff Directory</a></li><li id="menu-701-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/content/advisory-board" class="sf-depth-2">Advisory Board</a></li></ul></li><li id="menu-408-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/content/community" class="sf-depth-1 menuparent">Community</a><ul><li id="menu-409-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/outreach/outreach-programs" class="sf-depth-2">Outreach Programs</a></li><li id="menu-410-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/outreach/industrial-affiliates" class="sf-depth-2">Industrial Affiliates</a></li><li id="menu-411-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/people/alumni" class="sf-depth-2">Alumni</a></li><li id="menu-412-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/donate" class="sf-depth-2 menuparent">Support CICS</a><ul><li id="menu-579-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/CSendowments" class="sf-depth-3">CICS Scholarships &amp; Fellowships</a></li></ul></li><li id="menu-598-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/people/cs-women" class="sf-depth-2">CS Women</a></li><li id="menu-487-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/community/student-organizations" title="Student Organizations" class="sf-depth-2">Student Organizations</a></li></ul></li><li id="menu-345-1" class="last odd sf-item-7 sf-depth-1 sf-total-children-2 sf-parent-children-1 sf-single-children-1 menuparent"><a href="/news" class="sf-depth-1 menuparent">News &amp; Events</a><ul><li id="menu-278-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/events" class="sf-depth-2">Events Calendar</a></li><li id="menu-413-1" class="last even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about/newsletters" class="sf-depth-2 menuparent">SigBits Newsletter</a><ul><li id="menu-414-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about/alum-matters-back-issues" class="sf-depth-3">Alum Matters Back Issues</a></li><li id="menu-415-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/about/sigbits-back-issues" class="sf-depth-3">SigBits Back Issues</a></li></ul></li></ul></li></ul>  </div>
+</div>
+  </div>
+                              </nav>
+            </div>
+            <!-- EOF: #main-navigation -->
+          </div>
+          <!-- EOF:#header-inside-right -->
+        </div>
+      </div>
+    </div>
+    <!-- EOF: #header-inside -->
+   </div>
+</header>
+<!-- EOF: #header -->
+
+
+<div style="margin-top: 0px;" id="page-intro" class="clearfix">
+    <div id="page-intro-inside" class="clearfix internal-banner no-internal-banner-image">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+
+          <!-- # Breadcrumb -->
+                      <div id="breadcrumb" class="clearfix">
+              <div id="breadcrumb-inside" class="clearfix">
+                <div><a href="/">Home</a> <span class="breadcrumb-separator"></span><a href="/people/cs-people">People</a> <span class="breadcrumb-separator"></span>Faculty Directory</div>              </div>
+            </div>
+                    <!-- EOF:#Breadcrumb -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- #page -->
+<div id="page" class="clearfix">
+
+    <!-- #messages-console -->
+        <!-- EOF: #messages-console -->
+
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+
+            <div class="row">
+
+                
+                <section class="col-md-8">
+
+                    <!-- #promoted -->
+                                        <!-- EOF: #promoted -->
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+
+                                                <h1 class="title" id="page-title">Faculty Directory</h1>                        
+                        <!-- #tabs -->
+                                                    <div class="tabs">
+                                                        </div>
+                                                <!-- EOF: #tabs -->
+
+                        
+                        <!-- #action links -->
+                                                <!-- EOF: #action links -->
+
+                         
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div class="view view-faculty-directory view-id-faculty_directory view-display-id-page view-dom-id-667092eadcd56ed09542921c3f129714">
+            <div class="view-header">
+      <h2>Tenure Track and Research Faculty</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/adrion_richards"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Adrion_0.jpg?itok=VmTiJsTi" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"> Adrion, W. Richards </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS310</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2475</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:adrion@cs.umass.edu">adrion@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/allan_james"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/ja-picture_2.jpg?itok=KKz9QVue" width="140" height="140" alt="James Allan headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"> Allan, James </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor and Chair of the Faculty </div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS202</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2742</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:allan@cs.umass.edu">allan@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/barrington_david"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/DMB.jpg?itok=TaCJEdO4" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"> Barrington, David A. Mix </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS210</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4329</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:barring@cs.umass.edu">barring@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/berger_emery"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/emery-berger-portrait.jpg?itok=gNtj5aIm" width="140" height="140" alt="[Emery Berger]" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Berger, Emery D.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS344</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-4211</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:emery@cs.umass.edu">emery@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/person/biswas-joydeep"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/joydeepb.jpg?itok=nLOBvCQN" width="140" height="140" alt="Joydeep Biswas Photo" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Biswas, Joydeep </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS238</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3403</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:joydeepb@cs.umass.edu">joydeepb@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/brun_yuriy"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/yuriy_-_version_2_1.jpg?itok=eBde--Q-" width="140" height="140" alt="Yuriy Brun" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Brun, Yuriy </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS346</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-0233</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:brun@cs.umass.edu">brun@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-7 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/clarke_lori"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Clarke_0.jpg?itok=9Pa7vqGb" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Clarke, Lori A.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Emeritus Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS304</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">413-545-1328</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:clarke@cs.umass.edu">clarke@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-8 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/corner_mark"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/corner.jpg?itok=9BIUWjeU" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Corner, Mark D.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS338</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3788</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mcorner@cs.umass.edu">mcorner@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-9 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/croft_w-bruce"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/croft.jpg?itok=g362CgUA" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Croft, W. Bruce </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Interim Dean and Distinguished University Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS370</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0463</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:croft@cs.umass.edu">croft@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-10 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/diao_yanlei"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/diao.jpg?itok=bnZ7jH5V" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Diao, Yanlei </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS232</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1135</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:yanlei@cs.umass.edu">yanlei@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-11 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/ganesan_deepak"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/ganesan-cropped.jpg?itok=vrfx7Ve3" width="140" height="140" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ganesan, Deepak K.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS272</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2450</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:dganesan@cs.umass.edu">dganesan@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-12 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/grupen_roderic"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/grupen.jpg?itok=T_mEf7PU" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Grupen, Roderic A.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">LGRC A337</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3280</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:grupen@cs.umass.edu">grupen@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-13 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/guha_arjun"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/arjun-2015.jpg?itok=qK2S7J5H" width="140" height="140" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Guha, Arjun </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS230</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2447</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:arjun@cs.umass.edu">arjun@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-14 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/houmansadr_amir"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Amir-2014.jpg?itok=nYxLUKPg" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Houmansadr, Amir </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS206</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-2580</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:amir@cs.umass.edu">amir@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-15 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/immerman_neil"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/neil2014.jpg?itok=Vj7u3SmA" width="140" height="140" alt="Neil Immerman" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Immerman, Neil </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS374</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1862</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:immerman@cs.umass.edu">immerman@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-16 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/jensen_david"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/David_Jensen_2015.jpg?itok=LpbH4ncV" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jensen, David D.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS308</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-9677</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:jensen@cs.umass.edu">jensen@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-17 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/kalogerakis_evangelos"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/kalo.jpg?itok=3DauAfUi" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Kalogerakis, Evangelos </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS250</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1952</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:kalo@cs.umass.edu">kalo@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-18 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/kurose_james"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/kurose.jpg?itok=fLZwHyI7" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Kurose, James F.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Distinguished Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS376</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1585</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:kurose@cs.umass.edu">kurose@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-19 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/learned-miller_erik"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/learned.jpg?itok=1Tl1F5M4" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Learned-Miller, Erik G.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS248</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2993</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:elm@cs.umass.edu">elm@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-20 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/levine_brian"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/brian2.png?itok=Tx9Wb0Yz" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Levine, Brian Neil</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS306</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-0238</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:brian@cs.umass.edu">brian@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-21 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/mahadevan_sridhar"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mahadevan.jpg?itok=U288o7LV" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Mahadevan, Sridhar </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS204</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3140</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mahadeva@cs.umass.edu">mahadeva@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-22 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/maji_subhransu"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/SMaji-2014.jpg?itok=loPLtbdv" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Maji, Subhransu </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS274</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-2570</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:smaji@cs.umass.edu">smaji@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-23 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/manmatha_r"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/manmatha.jpg?itok=Xar7pQi1" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Manmatha, R. </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS348</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3623</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:manmatha@cs.umass.edu">manmatha@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-24 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/marlin_benjamin"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Mail%20Attachment_0.jpg?itok=vEbxtXcC" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Marlin, Benjamin M.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS234</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4493</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:marlin@cs.umass.edu">marlin@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-25 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/person/mazumdar-arya"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/arya2.jpg?itok=WNwgQUzE" width="140" height="140" alt="Arya Mazumdar " /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Mazumdar, Arya  </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor </div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS 222</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:arya@cs.umass.edu">arya@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-26 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/mccallum_andrew"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mccallum.jpg?itok=gLcaCZY6" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">McCallum, Andrew K.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS244</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1323</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mccallum@cs.umass.edu">mccallum@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-27 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/mcgregor_andrew"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mcgregor2012_web.jpg?itok=V0dVNrqh" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">McGregor, Andrew </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS334</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-6867</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mcgregor@cs.umass.edu">mcgregor@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-28 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/alexandra_meliou"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/meliou.jpg?itok=7JC0AThQ" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Meliou, Alexandra </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS330</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3788</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ameli@cs.umass.edu">ameli@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-29 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/miklau_gerome"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/two-square-low.jpg?itok=sg-Vqspe" width="140" height="140" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Miklau, Gerome </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS208</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4032</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:miklau@cs.umass.edu">miklau@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-30 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/moll_robert"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/moll.jpg?itok=H3cY_EM_" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Moll, Robert N.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">LGRC A351B</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:moll@cs.umass.edu">moll@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-31 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/moss_j-eliot"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/moss.jpg?itok=NqCK26B1" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Moss, J. Eliot B. </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS372</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4206</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:moss@cs.umass.edu">moss@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-32 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/oconnor_brendan"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/OConnor-2014.jpg?itok=14OOKsjz" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">O&#039;Connor, Brendan </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS222</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-2503</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:brenocon@cs.umass.edu">brenocon@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-33 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/osterweil_leon"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/ljo-2013.jpg?itok=6qiZue_f" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Osterweil, Leon J.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS302</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2186</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ljo@cs.umass.edu">ljo@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-34 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/saha_barna"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Barna-2014.jpg?itok=-jIP0pBL" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Saha, Barna </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS322</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-2510</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:barna@cs.umass.edu">barna@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-35 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/sheldon_dan"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/sheldon.jpg?itok=DSWFtRYf" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Sheldon, Dan </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS246</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4843</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:sheldon@cs.umass.edu">sheldon@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-36 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/shenoy_prashant"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/shenoy.jpg?itok=VTwHlWDI" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Shenoy, Prashant </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS336</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-0850</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:shenoy@cs.umass.edu">shenoy@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-37 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/siegelmann_hava"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/siegelmann.jpg?itok=6rXM5FXn" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Siegelmann, Hava T.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS276</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-4282</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:hava@cs.umass.edu">hava@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-38 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/sitaraman_ramesh"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/ramesh-2013_0.jpg?itok=KuJ3hz_E" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Sitaraman, Ramesh K.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS332</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3279</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ramesh@cs.umass.edu">ramesh@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-39 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/towsley_donald"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/towsley.jpg?itok=SQoSwsMg" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Towsley, Donald F.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Distinguished University Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS378</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0207</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:towsley@cs.umass.edu">towsley@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-40 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/venkataramani_arun"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/sadface.jpg?itok=4tQD7XmR" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Venkataramani, Arun </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS236</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3651</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:arun@cs.umass.edu">arun@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-41 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/wallach_hanna"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/wallach_web.jpg?itok=VxnAe79D" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Wallach, Hanna M.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS238</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0330</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:wallach@cs.umass.edu">wallach@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-42 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/wang_rui"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/ruiwang.jpg?itok=cFhiBQ9Q" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Wang, Rui </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS270</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3147</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ruiwang@cs.umass.edu">ruiwang@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-43 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/weems_charles"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/weems.jpg?itok=aJ7J5kRt" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Weems, Charles C.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS342</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3163</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:weems@cs.umass.edu">weems@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-44 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/wileden_jack"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/wilenden.jpg?itok=wBMdIxow" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Wileden, Jack C.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS242</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0289</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:jack@cs.umass.edu">jack@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-45 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/woolf_beverly"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/wolff.jpg?itok=BwOlQXaz" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Woolf, Beverly P.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS338</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4265</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:bev@cs.umass.edu">bev@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-46 views-row-even views-row-last col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/zilberstein_shlomo"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/zielberstein.jpg?itok=ff5Vb1gX" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Zilberstein, Shlomo </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS278</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4189</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:shlomo@cs.umass.edu">shlomo@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-faculty-directory view-id-faculty_directory view-display-id-attachment_1">
+            <div class="view-header">
+      <h2>Emeriti Faculty</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/barto_andrew"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Barto.jpg?itok=9httJ6MR" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Barto, Andrew G.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A359 - LGRC</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:barto@cs.umass.edu">barto@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/graham_robert"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/graham.jpg?itok=8GzXxkbk" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Graham, Robert  M.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A337 - LGRC</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:bob@cs.umass.edu">bob@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/hanson_allen"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/hanson_web.jpg?itok=TzUcobJb" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Hanson, Allen R.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A351A - LGRC</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3442</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:hanson@cs.umass.edu">hanson@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/lehnert_wendy"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/wgl3.png?itok=Ougfr8QR" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Lehnert, Wendy G.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emerita</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413)-545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:lehnert@cs.umass.edu">lehnert@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/lesser_victor"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/lesser.jpg?itok=uk4DhhAJ" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Lesser, Victor R.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Distinguished Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:lesser@cs.umass.edu">lesser@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/rissland_edwina"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Rissland.jpg?itok=L3OkEEYq" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Rissland, Edwina L.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emerita</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:rissland@cs.umass.edu">rissland@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-7 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/rosenberg_arnold"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/rsnbrg.jpg?itok=Wqh8uBFC" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Rosenberg, Arnold L.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Distinguished University Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:rsnbrg@cs.umass.edu">rsnbrg@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/wogrin_conrad"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/wogrin.jpg?itok=6s7zrVY5" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Wogrin, Conrad A.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:wogrin@cs.umass.edu">wogrin@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-faculty-directory view-id-faculty_directory view-display-id-attachment_2">
+            <div class="view-header">
+      <h2>Lecturers, Research Scientists and Adjunct Professors</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/avrunin_george"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Avrunin.jpg?itok=zr9j9YwU" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"> Avrunin, George S.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS318</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-0344</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:avrunin@cs.umass.edu">avrunin@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/albrecht_jeannie"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/jeanniealbrecht_web.jpg?itok=fRxDYzJd" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Albrecht, Jeannie </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:jeannie@cs.williams.edu">jeannie@cs.williams.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/anderson_gordon"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Anderson-2014_0.jpg?itok=PCUzv7is" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Anderson, Gordon </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lecturer</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A313A - LGRC </div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4747</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:gordon@cs.umass.edu">gordon@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/arroyo_ivon"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/ivonarroyo.jpg?itok=MQWU2ofp" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Arroyo, Ivon </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Scientist</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS256A</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-1370</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ivon@cs.umass.edu">ivon@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/cecchet_emmanuel"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/emmanuelcecchet.jpg?itok=z8ssVROX" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Cecchet, Emmanuel </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Scientist</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS216A</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3787</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:cecchet@cs.umass.edu">cecchet@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/corkill_daniel"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Corkill.jpg?itok=VuATslSq" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Corkill, Daniel D.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Research Scientist</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS324A</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0675</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:corkill@cs.umass.edu">corkill@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-7 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/foulkes_andrea"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/foulkes.jpg?itok=3EGyOvku" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Foulkes, Andrea S.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Arnold House</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1881</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:foulkes@schoolph.umass.edu">foulkes@schoolph.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-8 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/fountain_jane"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/janefountainphoto140.jpg?itok=qNBDwena" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Fountain, Jane E. </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Thompson Hall 406</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1007</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:fountain@polsci.umass.edu">fountain@polsci.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-9 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/fu_kevin"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/fuo.jpg?itok=jK7p6i0_" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Fu, Kevin </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413)545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:kevinfu@cs.umass.edu">kevinfu@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-10 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/gong_weibo"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/weibo_gong.jpg?itok=X3u_099H" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Gong, Weibo </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">ECE</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0384</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:gong@cs.umass.edu">gong@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-11 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/hudlicka_eva"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Hudlicka.jpg?itok=0__VJxs4" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Hudlicka, Eva </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Instructor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">LGRC A359</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 577-2127</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:hudlicka@cs.umass.edu">hudlicka@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-12 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/irwin_david"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/irwin_0.jpg?itok=ox3gvwOF" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Irwin, David </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">KEB 211D</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-5822</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:irwin@ecs.umass.edu">irwin@ecs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-13 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/kaplan_scott"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/kaplan.jpg?itok=0bTfZME6" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Kaplan, Scott F.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:sfkaplan@cs.umass.edu">sfkaplan@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-14 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/liberatore_marc"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/headshot.jpg?itok=y8rvDvEV" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Liberatore, Marc D.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Scientist</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS356A</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3061</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:liberato@cs.umass.edu">liberato@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-15 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/marquard_jenna"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/marquard_jenna.jpg?itok=Y9MToXnY" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Marquard, Jenna L.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Marston 120G</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-0646</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:jlmarquard@ecs.umass.edu">jlmarquard@ecs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-16 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/mcgeoch_catherine"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mcgeoch1.jpg?itok=SO_mA1CM" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">McGeoch, Catherine </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:ccm@cs.umass.edu">ccm@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-17 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/mcgeoch_lyle"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mcgeoch2.jpg?itok=g1lHdU70" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">McGeoch, Lyle A.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:lam@cs.umass.edu">lam@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-18 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/content/pon-barry-heather"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/headshots/heatherpon-barry_430_small_0615.jpeg?itok=qeoErlzw" width="140" height="140" alt="" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Pon-Barry, Heather </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto: ponbarry@cics.umass.edu"> ponbarry@cics.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-19 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/ramamritham_krithivasan"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/ramamartham.jpg?itok=wLtNxWzX" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Ramamritham, Krithivasan </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:krithi@cs.umass.edu">krithi@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-20 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/richards_tim"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/tim-richards.jpeg?itok=umvDKzc1" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Richards, Tim </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lecturer</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS258</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4704</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:richards@cs.umass.edu">richards@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-21 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/schultz_howard"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Schultz.jpg?itok=uRnQ_aze" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Schultz, Howard J.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Research Scientist</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A349B</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-3482</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:hschultz@cs.umass.edu">hschultz@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-22 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/smaragdakis_yannis"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Yannis.jpg?itok=CDKrT7h4" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Smaragdakis, Yannis </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-2744</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:yannis@cs.umass.edu">yannis@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-23 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/smith_david"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/dasmith.jpg?itok=lrmB8CgO" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Smith, David A.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(617) 373 8526</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:dasmith@ccs.neu.edu">dasmith@ccs.neu.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-24 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/sondheimer_norman"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/norman.jpg?itok=wGFGHspw" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Sondheimer, Norman K.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">co-Director Electronic Enterprise Institute </div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(860) 539-9335</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:sondheimer@cs.umass.edu">sondheimer@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-25 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/spector_lee"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/LeeSpector_2.jpg?itok=K-_uwmZG" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Spector, Lee </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">N/A</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:lspector@hampshire.edu">lspector@hampshire.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-26 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/sproull_bob"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/sproull_0.jpg?itok=0d8w8Qlj" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Sproull, Bob </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">N/A</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:rfsproull@cs.umass.edu">rfsproull@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-27 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/streinu_ileana"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/streinu.jpg?itok=BKDOHlbH" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Streinu, Ileana </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS318A</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1220</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:streinu@cs.umass.edu">streinu@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-28 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/thorup_mikkel"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/thorup.jpg?itok=vmjUt52g" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Thorup, Mikkel </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">Off-Campus</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413)  345-2713</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mikkel2thorup@gmail.com">mikkel2thorup@gmail.com</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-29 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/trim_michelle"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/mtrim-2013.jpg?itok=wSwqeWcd" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Trim, Michelle </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lecturer</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS212</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4450</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:mtrim@cs.umass.edu">mtrim@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-30 views-row-even col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/verts_william"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Verts.jpg?itok=JmIy8iw7" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Verts, William T.</div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Lecturer</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">A357</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-1719</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:verts@cs.umass.edu">verts@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-31 views-row-odd col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/hong_yu"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/hongyu_0.jpg?itok=mIKSP86W" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Yu, Hong </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">CS358</div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(508) 856-3474</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:hongyu@cs.umass.edu">hongyu@cs.umass.edu</a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-32 views-row-even views-row-last col-xs-12 col-sm-4 equalheight">
+    <div  class="ds-1col node node-person view-mode-grid_view clearfix">
+
+  
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/faculty/directory/zink_michael"><img src="https://www.cics.umass.edu/sites/default/files/styles/people__list/public/people/faculty/Zink.jpg?itok=07PzXyJN" width="140" height="140" alt="headshot" /></a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Zink, Michael </div></div></div><div class="field field-name-field-position field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor</div></div></div><div class="field field-name-field-location field-type-text field-label-inline clearfix"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">113B Knowles Engineering </div></div></div><div class="field field-name-field-phone field-type-text field-label-inline clearfix"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(413) 545-4465</div></div></div><div class="field field-name-field-email field-type-email field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:zink@ecs.umass.edu">zink@ecs.umass.edu</a></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                                                
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                                <aside class="col-md-4 fix-sidebar-second">
+                    <!--#sidebar-->
+                    <section id="sidebar-second" class="sidebar clearfix">
+                      <div class="region region-sidebar-second">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/faculty/faculty-directory" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search CICS </label>
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search CICS...&#039;;}" onfocus="if (this.value == &#039;Search CICS...&#039;) {this.value = &#039;&#039;;}" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search CICS..." size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value=" " type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-q_FLCrkuF0tl5Y4_br6FJDfKgVZj14LLzK75pgpykGk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block clearfix">
+
+    
+  <div class="content">
+    <h2 class="title">People</h2><div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf active-trail active menu-mlid-405"><a href="/faculty/faculty-directory" class="active-trail active">Faculty Directory</a></li>
+<li class="leaf menu-mlid-548"><a href="/people/graduate-students">Graduate Students</a></li>
+<li class="leaf menu-mlid-402"><a href="/people/graduating_phds">Graduating PhDs</a></li>
+<li class="leaf menu-mlid-404"><a href="/people/graduating_ms">Graduating MS Students</a></li>
+<li class="leaf menu-mlid-549"><a href="/people/staff-directory">Staff Directory</a></li>
+<li class="last leaf menu-mlid-701"><a href="/content/advisory-board">Advisory Board</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-->
+                </aside>
+                                
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+</div>
+<!-- EOF: #page -->
+
+
+<!-- #footer-top -->
+<div id="footer-top" class="clearfix one-region">
+    <div class="container">
+
+        <!-- #footer-top-inside -->
+        <div id="footer-top-inside" class="clearfix">
+            <div class="row">
+            
+                        
+                        <div class="col-ms-12">
+                <!-- #footer-top-right -->
+                <div id="footer-top-right" class="clearfix">
+                    <div class="footer-top-area">                    
+                          <div class="region region-footer-top-right">
+    <div id="block-block-5" class="block block-block block-social-media clearfix">
+
+    
+  <div class="content">
+    <ul>
+	<li>Follow us<br />
+	on Social Media</li>
+	<li><a href="https://www.facebook.com/UMassCICS"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://www.linkedin.com/grp/home?gid=147712"><i class="fa fa-linkedin"></i></a></li>
+	<li><a href="https://twitter.com/umasscs"><i class="fa fa-twitter"></i></a></li>
+</ul>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+                <!-- EOF:#footer-top-right -->
+            </div>
+                        
+            </div>
+        </div>
+        <!-- EOF: #footer-top-inside -->
+
+    </div>
+</div>
+<!-- EOF: #footer-top -->    
+
+<!-- #footer -->
+<footer id="footer" class="clearfix">
+    <div class="container">
+
+        <div class="row">
+                        <div class="col-sm-12">
+                <div class="footer-area">
+                  <div class="region region-footer-first">
+    <div id="block-block-2" class="block block-block footer clearfix">
+
+    
+  <div class="content">
+    <p style="text-align: center">College of Information and Computer Sciences  | 140 Governors Dr., Amherst, MA 01003 | <a href="tel:14135452744">(413) 545-2744</a> | <a href="mailto:info@cics.umass.edu">info@cics.umass.edu</a></p>
+<p style="text-align: center">&copy; 2015 <a href="http://www.umass.edu">University of Massachusetts Amherst</a> &bull; <a href="http://www.umass.edu/site-policies" target="_blank">Site Policies</a> &bull; <a href="mailto:www-admin@cics.umass.edu">Site Contact</a></p>  </div>
+</div>
+  </div>
+                </div>
+            </div>
+                  
+
+            
+            
+                    </div>
+
+    </div>
+</footer> 
+<!-- EOF #footer -->
+
+  </body>
+</html>
