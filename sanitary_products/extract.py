@@ -29,7 +29,7 @@ with open('./email_template.txt') as f:
 
 email_body = template % (next_prof, last_prof, signature)
 msg = MIMEText(email_body)
-msg['Subject'] = 'Test email script -- please respond with comments'
+msg['Subject'] = 'Help Sponsor New CS Women Initiative'
 msg['From'] = email_from
 msg['To'] = ', '.join(email_to)
 
