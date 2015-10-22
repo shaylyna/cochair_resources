@@ -19,7 +19,7 @@ with open('./last_index', 'r') as f:
 next_prof = names[next_index].split(',')[0]
 last_prof = names[last_index].split(',')[0]
 email_from = 'womenchairs@cs.umass.edu'
-email_to = ['strubell@cs.umass.edu', 'etosch@cs.umass.edu']  #[emails[next_index]]
+email_to = [emails[next_index]] #['strubell@cs.umass.edu', 'etosch@cs.umass.edu']
 
 with open('../signature.txt') as f:
     signature = ''.join(f.readlines())

@@ -12,3 +12,4 @@ NOTE: After sending the email, you MUST commit and push the changes this script 
 
 * wget
 * pip
+* pyquery
