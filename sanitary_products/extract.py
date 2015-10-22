@@ -14,7 +14,7 @@ emails = [div.text for div in p]
 
 with open('./last_index', 'r') as f:
     last_index = int(''.join(f.readlines()).strip())
-    next_index = last_index + 1
+    next_index = (last_index + 1) % len(emails)
 
 next_prof = names[next_index].split(',')[0]
 last_prof = names[last_index].split(',')[0]
