@@ -32,6 +32,7 @@ msg = MIMEText(email_body)
 msg['Subject'] = 'Help Sponsor New CS Women Initiative'
 msg['From'] = email_from
 msg['To'] = ', '.join(email_to)
+msg['CC'] = email_from
 
 ans = None
 while not ans:
