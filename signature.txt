@@ -3,5 +3,5 @@ University of Massachusetts Amherst
 College of Information and Computer Sciences
 womenchairs@cs.umass.edu
 http://cics.umass.edu/~women
-Graduate Chairs: Emma Strubell, Emma Tosch
+Graduate Chairs: Emma Strubell, John Foley
 Undergraduate Chairs: Cassian Corey, Supriya Kankure
