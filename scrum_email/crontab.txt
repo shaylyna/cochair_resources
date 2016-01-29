@@ -1,0 +1,2 @@
+MAILTO=womenchairs@cs.umass.edu
+30 15 * * 5 ~/cochair_resources/scrum_email/scrum.sh > /dev/null
